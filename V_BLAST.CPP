@@ -719,5 +719,5 @@ int main()
 //	cout << ber1/i << "   " << ber2/i << "  " << ber3/i << endl;
 	j=j+0.1;
 	}
-	return 0;
+	return 0;#
 }
