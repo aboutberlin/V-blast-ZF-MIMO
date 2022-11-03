@@ -1,4 +1,4 @@
-# V-blast-ZF-for-MIMO
+# V-blast ZF & MIMO
 Implemented QR，SORTED QR，MMSE，MMSE QR，V-BLAST，ML algorithm
 
 Implemented a matrix class, through operator overloading for input and output of matrices, addition, subtraction, multiplication and division,slicing, QR decomposition, improved Gram-Schmidt orthogonality and matrix inversion, etc.
